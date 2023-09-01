@@ -72,3 +72,4 @@ function mul(a, b, c, d) {
     return result;
   };
   console.log(od([1, 2, 3, 4, 5, 6, 7, 8, 9]));
+  
